@@ -2,6 +2,7 @@ Gedit is a very user friendly text-editor. Its functiona;ities can be extended u
 There are so many of them, my personal favourities being the BracketCompletion, CodeComment, ControlYourTabs, DrawSpaces,, EmbeddedTerminal, ExternalTools, FileBrowserPanel, FindInFiles, Git, OpenasAdmin, QuickHighLight, QuickOpen, Snippets, TextSize, WordCompletion.
 Some of these comes by default with gedit(may vary according to your distro), you just have to enable them in plugins section.
 If you use some keyboard shortcuts along with these extensions, gedit is the best text editor ou there- 
+* Features
 	* you can theme it according to your way
 	* filebrowser as a sidepane
 	* Embedded Terminal, python console as bottom pane 
@@ -32,7 +33,7 @@ If you use some keyboard shortcuts along with these extensions, gedit is the bes
 16. [TextSize](https://gitlab.gnome.org/GNOME/gedit-plugins/-/tree/master/plugins/textsize)
 17. [Translate](https://gitlab.gnome.org/GNOME/gedit-plugins/-/tree/master/plugins/translate)
 18. [WordCompletion](https://gitlab.gnome.org/GNOME/gedit-plugins/-/tree/master/plugins/wordcompletion)
-
+19. [Open as Admin](https://github.com/maoschanz/gedit-plugin-open-as-root)
 
 ## Not Maintained
 
